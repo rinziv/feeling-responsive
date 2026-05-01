@@ -1,33 +1,30 @@
 ---
 layout: page
-subheadline:  "Headers With Style"
-title:  "No Header but Article Image"
-teaser: "Feeling Responsive enables you to get the attention of visitors. If you don't want to use a big header, use an image for the article instead."
+subheadline: "Strumenti"
+title: "Diario emotivo: come iniziare"
+slug: "diario-emotivo-come-iniziare"
+permalink: "/blog/diario-emotivo-come-iniziare/"
+teaser: "Scrivere con regolarita aiuta a comprendere meglio pensieri, emozioni e bisogni."
 categories:
-    - design
+    - crescita-personale
 tags:
-    - design
-    - background color
-    - header
+    - diario-emotivo
+    - consapevolezza
+    - crescita-personale
 header: no
 image:
     title: unsplash_eagle.jpg
-    caption: This is a caption for the header image with link
+    caption: Immagine di supporto
     caption_url: https://unsplash.com/
 ---
-First turn of the header with `header: no`. Then add an image to with the following code. The caption is optional.
+Il diario emotivo non e un compito scolastico: e uno spazio personale di osservazione.
 <!--more-->
 
-~~~
-header: no
-image:
-    title: unsplash_eagle.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-~~~
+## Struttura semplice
 
+- evento: cosa e successo
+- emozione: cosa ho provato
+- pensiero: cosa mi sono detto
+- bisogno: di cosa avrei bisogno adesso
 
-### All Header-Styles
-{: .t60 }
-
-{% include list-posts tag='header' %}
+Bastano 5 minuti al giorno per notare schemi ricorrenti e iniziare a cambiarli.

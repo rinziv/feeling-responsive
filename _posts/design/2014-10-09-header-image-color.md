@@ -1,38 +1,30 @@
 ---
 layout: page
-title:  "Header Image With Background Color"
-subheadline:  "Headers With Style"
-teaser: "Feeling Responsive allows you to use all kinds of headers. This example shows a header image with a defined background color via front matter."
+title: "Come gestire un picco d'ansia"
+slug: "gestire-picco-ansia"
+permalink: "/blog/gestire-picco-ansia/"
+subheadline: "Strumenti immediati"
+teaser: "Quando l'ansia sale rapidamente, alcune tecniche brevi aiutano a ritrovare stabilita."
 categories:
-    - design
+    - ansia
 tags:
-    - design
-    - background color
-    - header
+    - ansia
+    - grounding
+    - tecniche
 header:
     image: header_unsplash_2-970x.jpg
-    background-color:  "#304558"
-    caption: This is a caption for the header image with link
+    background-color: "#304558"
+    caption: Supporto visivo al tema ansia
     caption_url: https://unsplash.com/
 ---
-It's so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the [example with a background pattern]({{ site.url }}{{ site.baseurl }}/design/header-image-pattern/).
+Durante un picco d'ansia il corpo entra in allerta. L'obiettivo non e combattere, ma regolare gradualmente.
 <!--more-->
 
+## Sequenza rapida
 
-## Front Matter Code
+- appoggia bene i piedi a terra
+- nomina 5 cose che vedi
+- allunga l'espirazione
+- bevi un sorso d'acqua lentamente
 
-{% include alert alert="WARNING: To make this work the value of `background-color` must be inbetween quotes." %}
-
-~~~
-header:
-    image: "header_unsplash_2-970x.jpg"
-    background-color: "#fabb00"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-~~~
-
-
-### All Header-Styles 
-{: .t60 }
-
-{% include list-posts tag='header' %}
+Quando il corpo riceve segnali di sicurezza, la mente recupera chiarezza.

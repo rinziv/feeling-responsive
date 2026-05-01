@@ -1,36 +1,29 @@
 ---
 layout: page
-title:  "Header Image With Pattern"
-subheadline:  "Headers With Style"
-teaser: "Feeling Responsive allows you to use all kinds of headers. This example shows a header image in front of a pattern."
+title: "Routine serale contro il rimuginio"
+slug: "routine-serale-contro-rimuginio"
+permalink: "/blog/routine-serale-contro-rimuginio/"
+subheadline: "Sonno e benessere"
+teaser: "Una chiusura graduale della giornata riduce pensieri ripetitivi e favorisce un sonno piu stabile."
 categories:
-    - design
+    - ansia
 tags:
-    - design
-    - pattern
-    - header
+    - ansia
+    - sonno
+    - rimuginio
 header:
     image: header_unsplash_2-970x.jpg
     pattern: pattern_concrete.jpg
-    caption: This is a caption for the header image with link
+    caption: Immagine di supporto al tema benessere
     caption_url: https://unsplash.com/
 ---
-It's so easy to do. Just define in front matter an image and a pattern image. Instead of a pattern you can also use a color. Have a look at the [example with a background color]({{ site.url }}{{ site.baseurl }}/design/header-image-color/).
+Rimuginare la sera e molto comune quando si vive un periodo di stress.
 <!--more-->
 
-## Front Matter Code
+## Mini routine di 15 minuti
 
-~~~
-header:
-    image:  "header_unsplash_2-970x.jpg"
-    pattern:  "pattern_concrete.jpg"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-~~~
+- 5 minuti: scrivi su carta i pensieri aperti
+- 5 minuti: pianifica solo la prima azione di domani
+- 5 minuti: respiro lento o lettura leggera
 
-
-
-### All Header-Styles 
-{: .t60 }
-
-{% include list-posts tag='header' %}
+La regolarita conta piu della perfezione.

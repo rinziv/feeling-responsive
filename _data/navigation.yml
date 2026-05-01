@@ -22,6 +22,15 @@
   url: "/faq/"
   side: left
 
+- title: "Blog"
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Tutti gli articoli"
+    url: "/blog/"
+  - title: "Categorie"
+    url: "/blog/categorie/"
+
 - title: "Contatti"
   url: "/contact/"
   side: right

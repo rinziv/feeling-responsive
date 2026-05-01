@@ -1,34 +1,35 @@
 ---
 layout: page
 sidebar: right
-subheadline: Templates
-title:  "Page/Post Right Sidebar"
-teaser: "This is an example of page/post with a sidebar on the right."
+subheadline: Relazioni
+title: "Confini sani nelle relazioni"
+slug: "confini-sani-nelle-relazioni"
+permalink: "/blog/confini-sani-nelle-relazioni/"
+teaser: "Imparare a dire no con rispetto migliora la qualita dei legami e protegge il proprio equilibrio."
 breadcrumb: true
 tags:
-    - post format
+    - relazioni
+    - assertivita
+    - coppia
 categories:
-    - design
+    - coppia
 image:
     thumb: gallery-example-2-thumb.jpg
     title: gallery-example-2.jpg
     caption: Unsplash.com
     caption_url: http://unsplash.com
 ---
-*Feeling Responsive* shows metadata by default. The default behaviour can be changed via `config.yml`. To show metadata at the end of a page/post just add the following to front matter:
+Avere confini chiari non significa allontanare gli altri, ma rendere le relazioni piu autentiche.
 <!--more-->
 
-~~~
-show_meta: true
-~~~
+## Perche i confini sono utili
 
-If you don't want to show metadata, it's simple again:
+- riducono risentimento e sovraccarico
+- migliorano la comunicazione
+- aumentano rispetto reciproco
 
-~~~
-show_meta: false
-~~~
+## Una formula semplice
 
+"In questo momento non riesco, ma possiamo parlarne domani."
 
-## Other Post Formats
-{: .t60 }
-{% include list-posts tag='post format' %}
+Comunicare con chiarezza e gentilezza e spesso il primo passo per relazioni piu sane.

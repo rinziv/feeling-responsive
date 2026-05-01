@@ -1,19 +1,28 @@
 ---
 layout: page
-title:  "Header With Logo Only"
-subheadline:  "Headers With Style"
-teaser: "Feeling Responsive allows you to use all kinds of headers. This is the default mode. It shows a header just with your logo on the standard background."
+title: "Tre miti sulla psicoterapia"
+slug: "miti-sulla-psicoterapia"
+permalink: "/blog/miti-sulla-psicoterapia/"
+subheadline: "Falsi miti"
+teaser: "Superare alcuni stereotipi aiuta a vivere il percorso psicologico con maggiore serenita."
 categories:
-    - design
+    - crescita-personale
 tags:
-    - design
-    - background color
-    - header
+    - terapia
+    - psicoterapia
+    - consapevolezza
 ---
-No front matter code needed.
+La psicoterapia e ancora circondata da convinzioni poco accurate.
 <!--more-->
 
-### All Header-Styles 
-{: .t60 }
+## Mito 1: "Ci va solo chi sta molto male"
 
-{% include list-posts tag='header' %}
+In realta, molte persone iniziano un percorso per crescere, prevenire o migliorare la qualita della vita.
+
+## Mito 2: "Basta parlare"
+
+Il colloquio e centrale, ma include anche obiettivi, strumenti e monitoraggio dei cambiamenti.
+
+## Mito 3: "Dura per sempre"
+
+Esistono percorsi brevi e focalizzati, oltre a percorsi piu approfonditi: dipende dal bisogno.

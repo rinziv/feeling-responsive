@@ -1,35 +1,30 @@
 ---
 layout: page
-title: "Header With Text"
-subheadline: "Headers With Style"
-teaser: "Feeling Responsive allows you to use all kinds of headers. This header is with text."
+title: "Parlare di emozioni con i figli"
+slug: "parlare-emozioni-con-i-figli"
+permalink: "/blog/parlare-emozioni-con-i-figli/"
+subheadline: "Genitorialita"
+teaser: "Un linguaggio semplice e coerente aiuta bambini e ragazzi a riconoscere e gestire meglio cio che provano."
 categories:
-    - design
+    - genitorialita
 tags:
-    - design
-    - background color
-    - header
+    - genitorialita
+    - emozioni
+    - adolescenza
 header:
-    title: header with text
-    background-color: "#EFC94C;"
-#    pattern: pattern_concrete.jpg
+    title: parlare di emozioni in famiglia
+    background-color: "#EFC94C"
     image_fullwidth: unsplash_brooklyn-bridge_header.jpg
-    caption: This is a caption for the header image with link
+    caption: Immagine di supporto
     caption_url: https://unsplash.com/
 ---
+Parlare di emozioni in famiglia non significa fare lezioni teoriche, ma creare un clima di ascolto quotidiano.
 <!--more-->
 
-## Front Matter Code
+## Tre frasi utili
 
-~~~
-header:
-    title: header with text
-    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-~~~
+- "Capisco che ora sia difficile."
+- "Vuoi raccontarmi cosa ti ha fatto stare male?"
+- "Possiamo cercare insieme una strategia."
 
-### All Header-Styles 
-{: .t60 }
-
-{% include list-posts tag='header' %}
+Validazione e chiarezza sono la base per una comunicazione educativa efficace.

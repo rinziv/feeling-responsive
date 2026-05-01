@@ -1,20 +1,25 @@
 ---
 layout: page
-title:  "Breadcrumbs"
-teaser: "If you need them, <em>Feeling Responsive</em> offers you a breadcrumb navigation. You can easily turn it on/off via frontmatter."
+title: "Piccoli segnali da non ignorare"
+slug: "piccoli-segnali-da-non-ignorare"
+permalink: "/blog/piccoli-segnali-da-non-ignorare/"
+teaser: "Alcuni campanelli d'allarme emotivi vengono sottovalutati, ma meritano ascolto."
 breadcrumb: true
 categories:
-    - design
+    - ansia
 tags:
-    - blog
-    - content
-    - post
+    - prevenzione
+    - salute-mentale
+    - ansia
 ---
+Molte persone aspettano di stare molto male prima di chiedere aiuto. In realta, riconoscere presto i segnali riduce sofferenza e tempi di recupero.
 <!--more-->
 
-{% include alert alert="WARNING: If you use breadcrumbs be aware, that if you use categories, you need pages for those categories. If not, the link in the breadcrumb won't work." %}
+## A cosa fare attenzione
 
-## Front Matter Code
-~~~
-breadcrumb: true
-~~~
+- irritabilita costante
+- difficolta nel sonno
+- ritiro dalle relazioni
+- perdita di interesse per attivita prima piacevoli
+
+Se questi segnali persistono, e utile confrontarsi con una professionista per comprendere meglio la situazione.

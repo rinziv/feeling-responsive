@@ -1,40 +1,41 @@
 ---
 layout: page-fullwidth
-title: "Show your beautiful work!"
-subheadline: "Portfolio"
-teaser: "With <em>Feeling Responsive</em> you don't need a special portfolio template. Just check out the great possibilities of the <a href='http://foundation.zurb.com/docs/components/grid.html'>foundation grid</a> and experiment with it."
+title: "Strumenti utili nel percorso psicologico"
+slug: "strumenti-utili-nel-percorso-psicologico"
+permalink: "/blog/strumenti-utili-nel-percorso-psicologico/"
+subheadline: "Pratica"
+teaser: "Un percorso efficace integra colloquio clinico e strumenti concreti da usare nella vita di tutti i giorni."
 categories:
-    - design
+  - crescita-personale
+tags:
+  - strumenti-pratici
+  - percorso-psicologico
+  - consapevolezza
 ---
 <!--more-->
 
 <div class="row t60">
-    <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
-        <p>Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
-    </div><!-- /.medium-6.columns -->
-
-    <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_phlow.jpg" alt="">
-        <p>Website: <a href="https://phlow.de/">Phlow.de</a></p>
-    </div><!-- /.medium-6.columns -->
-</div><!-- /.row -->
-
+  <div class="medium-6 columns b30">
+    <h3>Diario emotivo</h3>
+    <p>Aiuta a riconoscere emozioni, trigger e pensieri ricorrenti con maggiore chiarezza.</p>
+  </div>
+  <div class="medium-6 columns b30">
+    <h3>Routine di regolazione</h3>
+    <p>Piccole abitudini quotidiane per ridurre attivazione fisiologica e favorire stabilita.</p>
+  </div>
+</div>
 
 <div class="row t30">
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_andersneu.jpg" alt="">
-        <p>Website: <a href="https://andersneu.de/">andersneu.de</a></p>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_mosonic.jpg" alt="">
-        <p>Website: <a href="https://mosonic.net/">mosonic.net</a></p>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_moritz_sauer.jpg" alt="">
-        <p>Website: <a href="https://moritz.sauer.io/">Webdesign, SEO, Music</a></p>
-    </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
-
+  <div class="medium-4 columns">
+    <h3>Psicoeducazione</h3>
+    <p>Comprendere come funzionano ansia, stress e relazioni rende il cambiamento piu accessibile.</p>
+  </div>
+  <div class="medium-4 columns">
+    <h3>Monitoraggio obiettivi</h3>
+    <p>Verifiche periodiche aiutano a mantenere il percorso focalizzato su risultati concreti.</p>
+  </div>
+  <div class="medium-4 columns">
+    <h3>Esercizi tra una seduta e l'altra</h3>
+    <p>Applicare nella quotidianita consolida i progressi e aumenta autonomia personale.</p>
+  </div>
+</div>
