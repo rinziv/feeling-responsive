@@ -1,14 +1,28 @@
 ---
 layout: page
-subheadline: "Header"
-title: "Style your Header!"
-teaser: "These are your options to style the header of each webpage individually. <em>Feeling Responsive</em> uses <a href='http://srobbin.com/jquery-plugins/backstretch/'>Backstretch by Scott Robin</a> to expand them from left to right. The width should be 1600 pixel or higher using a ratio like 16:9 or 21:9 or 2:1."
+subheadline: "Informativa"
+title: "Privacy"
+teaser: "Informazioni sul trattamento dei dati personali ai sensi della normativa vigente."
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/headers/"
+permalink: "/privacy/"
 ---
-<ul>
-    {% for post in site.tags.header %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+I dati personali eventualmente forniti tramite email o telefono sono trattati esclusivamente per rispondere alle richieste di contatto e gestire l'eventuale percorso professionale.
+
+## Titolare del trattamento
+
+Dott.ssa Sonia Campa
+
+## Finalita
+
+- rispondere a richieste informative
+- gestire appuntamenti e comunicazioni organizzative
+- adempiere agli obblighi di legge
+
+## Conservazione
+
+I dati sono conservati per il tempo necessario alle finalita indicate e nel rispetto degli obblighi normativi applicabili.
+
+## Diritti dell'interessato
+
+E possibile richiedere accesso, rettifica, cancellazione, limitazione e opposizione al trattamento scrivendo ai recapiti presenti nella pagina Contatti.

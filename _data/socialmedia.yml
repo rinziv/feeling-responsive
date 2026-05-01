@@ -18,10 +18,10 @@
 #   class: icon-cloud
 #   title: "Mixe, was sonst?"
 
-- name: Facebook
-  url: http://www.facebook.com/
-  class: icon-facebook
-  title: ""
+- name: LinkedIn
+  url: https://www.linkedin.com/
+  class: icon-linkedin
+  title: "Profilo LinkedIn"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
@@ -29,9 +29,9 @@
 #   title: ""
 
 - name: Instagram
-  url: http://instagram.com/
+  url: https://www.instagram.com/
   class: icon-instagram
-  title: ""
+  title: "Profilo Instagram"
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/

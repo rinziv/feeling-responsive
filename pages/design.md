@@ -1,14 +1,32 @@
 ---
 layout: page
 show_meta: false
-title: "Style your content!"
-subheadline: "Layouts of Feeling Responsive"
+title: "Aree di intervento"
+subheadline: "Quando posso esserti utile"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/design/"
+permalink: "/aree-intervento/"
 ---
-<ul>
-    {% for post in site.categories.design %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+## Benessere emotivo
+
+- ansia e preoccupazioni ricorrenti
+- stress e sovraccarico mentale
+- difficolta nella regolazione emotiva
+
+## Relazioni e comunicazione
+
+- conflitti in famiglia o nella coppia
+- difficolta nelle relazioni sociali
+- gestione dei confini personali
+
+## Fasi di cambiamento
+
+- cambiamenti scolastici o lavorativi
+- separazioni, lutti e riorganizzazioni familiari
+- perdita di motivazione e senso di blocco
+
+## Adolescenza e crescita
+
+- gestione delle emozioni e dell'autostima
+- ritiro sociale e difficolta scolastiche
+- supporto nel rapporto genitori-figli

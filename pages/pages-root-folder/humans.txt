@@ -14,11 +14,9 @@ Twitter: {{ author.twitter }}{% endif %}
 
 /* THANKS */
 
-Name: Moritz »mo.« Sauer
-Role: Creator of the Theme
-Site: http://mo.phlow.de/
-Twitter: @phlow
-Theme: http://phlow.github.io/feeling-responsive/
+Name: Team editoriale
+Role: Contenuti e manutenzione del sito
+Site: https://soniacampa.it/
 
 
 /* SITE */

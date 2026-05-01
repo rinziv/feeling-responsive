@@ -2,22 +2,31 @@
 layout              : page
 title               : "Come lavoro"
 meta_title          : "Come lavoro"
-subheadline         : "Metodo di lavoro"
-teaser              : "Racconta qui il tuo processo di lavoro in modo chiaro e concreto."
+subheadline         : "Metodo e percorso"
+teaser              : "Un percorso psicologico costruito su obiettivi concreti, ascolto e continuita."
 permalink           : "/come-lavoro/"
 ---
-Questa pagina e pronta per essere compilata.
+## Primo contatto
 
-Puoi iniziare da qui:
+Il percorso inizia con un primo colloquio conoscitivo, utile per comprendere la richiesta, chiarire il bisogno e definire insieme gli obiettivi di lavoro.
 
-## Il mio metodo
-Spiega in breve il tuo approccio.
+## Valutazione iniziale
 
-## Le fasi del lavoro
-Descrivi i passaggi principali, dalla richiesta iniziale alla consegna.
+Nelle prime sedute approfondiamo la situazione attuale, la storia personale e i fattori che mantengono il disagio. Questa fase aiuta a individuare priorita e risorse.
 
-## Tempi e comunicazione
-Indica come gestisci tempistiche, aggiornamenti e revisioni.
+## Intervento personalizzato
 
-## Collaborazione
-Racconta cosa ti aspetti dalla collaborazione con i clienti.
+Il percorso viene costruito in base alla persona e puo includere:
+
+- colloqui di sostegno psicologico
+- tecniche di regolazione emotiva
+- lavoro su pensieri ricorrenti e schemi relazionali
+- strumenti pratici da utilizzare nella quotidianita
+
+## Monitoraggio e verifiche
+
+Durante il percorso verifichiamo periodicamente i progressi, per mantenere il lavoro focalizzato sugli obiettivi e adattare il metodo quando necessario.
+
+## Durata e frequenza
+
+La frequenza tipica e settimanale o quindicinale. Durata e tempi vengono concordati insieme, in modo realistico e flessibile.

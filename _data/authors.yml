@@ -7,7 +7,7 @@
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 sonia: # replace this with your info
   name: "Sonia Campa"
-  siterole: "webmaster, developer, copywriter, designer"
+  siterole: "psicologa clinica"
   uri: http://soniacampa.it/
   email:
 # you can add more authors here
